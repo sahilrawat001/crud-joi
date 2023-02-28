@@ -1,0 +1,73 @@
+[
+    {
+        "id": 4,
+        "username": "person4",
+        "age": 12,
+        "mail": "person3@gmail.com",
+        "password": "1s334"
+    },
+    {
+        "id": 5,
+        "username": "person5",
+        "age": 70,
+        "mail": "person4@gmail.com",
+        "password": "1s333"
+    },
+    {
+        "id": 6,
+        "username": "person6",
+        "age": 70,
+        "mail": "person5@gmail.com",
+        "password": "1s332"
+    },
+    {
+        "id": 7,
+        "username": "person87",
+        "age": 16,
+        "mail": "person112@gmail.com",
+        "password": "888888"
+    },
+    {
+        "id": 8,
+        "username": "person8",
+        "age": 60,
+        "mail": "person41@gmail.com",
+        "password": "nuiewy78"
+    },
+    {
+        "id": 9,
+        "username": "person9",
+        "age": 60,
+        "mail": "person55@gmail.com",
+        "password": "nuiewy78"
+    },
+    {
+        "id": 10,
+        "username": "person10",
+        "age": 18,
+        "mail": "person10@gmail.com",
+        "password": "nui23ewy78"
+    },
+   
+    {
+        "id": 11,
+        "username": "person003",
+        "age": 14,
+        "mail": "person002@gmail.com",
+        "password": "1234567"
+    },
+    {
+        "id": 12,
+        "username": "person77",
+        "age": 77,
+        "mail": "person77@gmail.com",
+        "password": "dxavc"
+    },
+    {
+        "id": 13,
+        "username": "dumy2",
+        "age": 25,
+        "mail": "dummy.798@gmail.in",
+        "password": "dxav135c"
+    }
+]
